@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'My Sexy Flutter Home Page'),
+      home: MyHomePage(title: 'My Basic Flutter Home Page'),
     );
   }
 }
@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You are sexy to have pushed the button this many times:',
+              'You are silly to have pushed the button this many times:',
             ),
             Text(
               '$_counter',
