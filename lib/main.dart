@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'firstWidgets.dart';
+import './examples/basics.dart';
 
 ///Changed the main widget to
 ///the one imported from FirstWidgets.

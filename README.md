@@ -1,6 +1,6 @@
 # Flutter Basics
 
-A project to record examples for newbies in Flutter
+A project to record examples for newbies in Flutter.
 
 ## Getting Started
 
